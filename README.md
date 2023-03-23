@@ -3,7 +3,7 @@
 - 🔭 Buscando minha primeira oportunidade na area da dev.
 - 🌱 Atualmente estudo: HTML5, CSS3 e JAVASCRIPT 
 - 👯 Procuro colaborar com Front-End
-- 📫 Como chegar até mim Email: weldonprogrammer2022@gmail.com
+- 📫 Entrar em contato comigo Email: weldonprogrammer2022@gmail.com
   
   <div align="center">
   <a href="https://github.com/WeldonCarlos">
