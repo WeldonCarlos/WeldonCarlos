@@ -1,9 +1,8 @@
 ### Olá! eu sou Weldon Carlos 👋
 
-- 🔭 Buscando minha primeira oportunidade na area da dev.
-- 🌱 Atualmente estudo: HTML5, CSS3 e JAVASCRIPT 
+- 🌱 Atualmente estudo: Java, JAVASCRIPT / ReactJS 
 - 👯 Procuro colaborar com Front-End
-- 📫 Entrar em contato comigo Email: weldonprogrammer2022@gmail.com
+- 📫 Para falar comigo Email: weldonprogrammer2022@gmail.com
   
   <div align="center">
   <a href="https://github.com/WeldonCarlos">
