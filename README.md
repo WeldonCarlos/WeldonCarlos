@@ -1,6 +1,6 @@
 ### Olá! eu sou Weldon Carlos 👋
 
-- 🌱 Atualmente: JAVASCRIPT / ReactJS (Estudando Delphi)
+- 🌱 Atualmente: JAVASCRIPT / ReactJS ( UX/UI )
 - 👯 Procuro colaborar com Front-End
 - 📫 Para falar comigo Email: weldonprogrammer2022@gmail.com
   
